@@ -1,1 +1,29 @@
-# tercer-entrega-46880
+# TERCER ENTREGA - COMISION 46880
+
+
+## PROFESOR
+- Maxi CARDENAS
+
+## TUTORES
+- Eduardo AREVALO 
+- Alesio ADROVER
+- Johana BAIROS
+
+### HERRAMIENTAS UTILIZADAS
+-  HTML
+- CSS
+- SCSS
+
+### MAQUETACION
+- Flexbox
+- Grids
+
+### LIBRERIAS Y FRAMEWORKS
+- Bootstrap
+
+### DISEÑO RESPONSIVE
+- Media queries
+
+### ANIMACION
+
+### SEO
